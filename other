@@ -1,0 +1,11 @@
+TOKEN = '5118005812:AAFXi6vPAZDp9sVAgTPsfjBqTXX9FU0NsMg'
+
+keys = {
+    'Биткоин': 'BTC',
+    'Доллар': 'USD',
+    'Евро': 'EUR',
+    'Космос': 'ATOM',
+    'Фантом': 'FTM',
+    'Терра': 'LUNA',
+    'Солана': 'SOL'
+}
